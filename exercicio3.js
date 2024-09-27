@@ -12,7 +12,7 @@ divisao = soma / 4;
 
 if(divisao >= 7 ){
     console.log("O aluno foi aprovado!");
-}else if(divisao > 5 ){
+}else if(divisao >= 5 ){
     console.log("O aluno está em recuperação!");
 }else if(divisao > 0 ){
     console.log("O aluno está reprovado!");
